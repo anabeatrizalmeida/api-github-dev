@@ -38,7 +38,7 @@ const theme = {
     light: '#ecf0f1',
     dark: '#233240',
     background: '#191919',
-    container: '2d2d2d',
+    container: '#2d2d2d',
     text: '#fff',
     link: '#3498db',
 
